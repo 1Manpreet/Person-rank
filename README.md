@@ -23,6 +23,7 @@ Explaination of Problem :-
 
 Algorithm for Problem :-
 
+
   -First we need to read the tweet from file so create a read function.Then this read function return tweets in vector of string.
   -Now, we need to score user from vector of tweets.
   -We are using map for scoring all users, In which User name as key and score as value.
