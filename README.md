@@ -14,10 +14,10 @@ Criteria to use: You may use the number of mentions, and the number of likes. We
 
 Explaination of Problem :-
 
-    ~basically we need to extract the users name and then score them according to criteria.
+    ~Basically we need to extract the users name and then score them according to criteria.
     ~According to Criteria their are three ways to score the users.
-      - we need to score 10 to the user for each like on the tweet.
-      - we need to give score 50 to each mentioned user.
-      - we need to give score 5 to each mentioned user for each like.
+      - We need to score 10 to the user for each like on the tweet.
+      - We need to give score 50 to each mentioned user.
+      - We need to give score 5 to each mentioned user for each like.
 
 
