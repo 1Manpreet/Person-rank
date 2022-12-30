@@ -38,3 +38,18 @@ Algorithm for Problem :-
   
   -Print the map.
   
+Our code:-
+
+
+![code](https://user-images.githubusercontent.com/109334405/210048577-8d2c50d3-8b5d-4c81-851f-ef12124c7a05.jpeg)
+
+
+Input:-
+
+![input](https://user-images.githubusercontent.com/109334405/210048705-86061637-4598-4677-a1fc-5175994a91d1.jpeg)
+
+
+Output :-
+
+![output](https://user-images.githubusercontent.com/109334405/210048739-5c64ea9d-3b6f-4715-ae09-bf2b445caa8f.jpeg)
+
