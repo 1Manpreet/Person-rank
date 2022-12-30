@@ -13,6 +13,7 @@ Print out the results in order of the PersonRank.
 Criteria to use: You may use the number of mentions, and the number of likes. Weightage can be such that each like on tweet mentioning the user has a score of 5 and each mention has a score of 50. Each like on the tweet by the user has a score of 10.
 
 Explaination of Problem :-
+
     ~basically we need to extract the users name and then score them according to criteria.
     ~According to Criteria their are three ways to score the users.
       - we need to score 10 to the user for each like on the tweet.
