@@ -21,3 +21,13 @@ Explaination of Problem :-
       - We need to give score 5 to each mentioned user for each like.
 
 
+Algorithm for Problem :-
+
+  -First we need to read the tweet from file so create a read function.Then this read function return tweets in vector of string.
+  -Now, we need to score user from vector of tweets.
+  -We are using map for scoring all users, In which User name as key and score as value.
+  -First, I extract all the user name and set the score of each user as 0 / zero.
+  -Then extract username of the user who tweet , like and tweet separately in another vector.
+  -Then performing calculation to get score of the user.
+  -Print the map.
+  
